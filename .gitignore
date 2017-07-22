@@ -1,0 +1,4 @@
+*.pyc
+client/build
+client/dist
+todo.txt
