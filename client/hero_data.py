@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #
 # HotC Hero Data
 # https://github.com/vesche/HotC

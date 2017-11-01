@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #
 # HotC Client
 # https://github.com/vesche/HotC
