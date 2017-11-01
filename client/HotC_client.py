@@ -22,6 +22,11 @@ def print_banner():
         print f.read()
 
 
+def print_cromulon():
+    with open('heroes/showme.txt') as f:
+        print f.read()
+
+
 def recv_data(sock):
     data = sock.recv(1024)
     command, _, arguments = data.partition(' ')
@@ -83,6 +88,7 @@ def lobby(sock, username):
             command, arguments = recv_data(sock)
             if command == 'match':
                 opp_name = arguments
+                print_cromulon()
                 print 'Starting game with {}!'.format(opp_name)
                 return opp_name
 
