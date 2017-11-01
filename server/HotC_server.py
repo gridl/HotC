@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 #
 # HotC Server
@@ -211,4 +212,9 @@ if __name__ == '__main__':
     server = Server()
     server.setDaemon(True)
     print 'HotC server is listening on port 1337...\n'
-    server.listen()
+
+    try:
+        server.listen()
+    except KeyboardInterrupt:
+        print 'HotC server shutting down!'
+        sys.exit(1)
