@@ -10,7 +10,7 @@ hero_dict = {
     '2': 'santa',
     '3': 'drunk mickey',
     '4': 'teen satan',
-    '5': 'geenie'
+    '5': 'genie'
 }
 
 # 'hero' : [attack, block, throw]
@@ -19,5 +19,5 @@ hero_moves = {
     'santa': ['Coal Throw', 'Present Shield', 'Santa Spank'],
     'drunk mickey': ['Fist Bump', 'Bottle Block', 'Drunk Hug'],
     'teen satan': ['Flame Arc', 'Firewall', 'False Love'],
-    'geenie': ['Pistol', 'Knight\'s Shield', 'Tornado']
+    'genie': ['Pistol', 'Knight\'s Shield', 'Tornado']
 }
