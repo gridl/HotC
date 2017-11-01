@@ -10,7 +10,7 @@ Hop in and battle to the top of the highscores!
 
 ## Release Notes
 
-**HotC Client v0.1.1 - 11/1/2017 **
+**HotC Client v0.1.1 - 11/1/2017**
 * New character Genie!
 * Cromulon added before game start.
 * Windows client to be released soon.
