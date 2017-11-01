@@ -10,6 +10,11 @@ Hop in and battle to the top of the highscores!
 
 ## Release Notes
 
+**HotC Client v0.1.1 - 11/1/2017 **
+* New character Genie!
+* Cromulon added before game start.
+* Windows client to be released soon.
+
 **HotC Client v0.1 - 7/21/2017**
 * First official release!
 * Four playable characters, each with their own artwork and moves.
@@ -18,7 +23,7 @@ Hop in and battle to the top of the highscores!
 
 ## How to Play
 
-To host your own server, clone this repository and start up a server like so:
+To host your own server, clone this repository and start a server up:
 
 ```
 $ git clone https://github.com/vesche/HotC
