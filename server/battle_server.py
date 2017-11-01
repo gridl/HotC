@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #
 # HotC Battle Server
 # https://github.com/vesche/HotC
